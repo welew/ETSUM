@@ -1,2 +1,3 @@
-# ETSUM
-Email Thread Summary Tool
+# MMI
+My Mail Index - An Outlook Add-in
+v.0.33
